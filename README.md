@@ -110,9 +110,10 @@ Both values are physiologically consistent with typical human vocal ranges.
 
 2.	Open MATLAB and set this folder as your working directory.
 3.	Run the scripts in order:
-
+   ``` bash
    run("SCRIPT_1_Analysis_Estimation.m");
    run("SCRIPT_2_Synthesis_Evaluation.m");
+   ```
 
 4.	All figures and synthesised audio will be saved in /figures and /audio_output.
 
