@@ -117,11 +117,11 @@ Both values are physiologically consistent with typical human vocal ranges.
 
 4.	All figures and synthesised audio will be saved in /figures and /audio_output.
 
-📚 References
-	•	L. R. Rabiner & R. W. Schafer, Theory and Applications of Digital Speech Processing, Pearson, 2011.
-	•	J. D. Markel & A. H. Gray, Linear Prediction of Speech, Springer, 1976.
-	•	T. F. Quatieri, Discrete-Time Speech Signal Processing, Prentice Hall, 2002.
-	•	MathWorks Documentation, LPC Function￼.
+### 📚 References
+- L. R. Rabiner & R. W. Schafer, Theory and Applications of Digital Speech Processing, Pearson, 2011.
+- J. D. Markel & A. H. Gray, Linear Prediction of Speech, Springer, 1976.
+- T. F. Quatieri, Discrete-Time Speech Signal Processing, Prentice Hall, 2002.
+- MathWorks Documentation, LPC Function￼.
 
    
 
