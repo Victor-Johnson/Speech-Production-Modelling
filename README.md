@@ -5,11 +5,6 @@ The project models how human vowels are produced by combining a **source–filte
 - the *excitation source* (voiced periodic impulse train), and  
 - the *vocal-tract filter* (approximated by LPC coefficients).  
 
-In order to run the script you would need your own audio files and use these commands 
-run("SCRIPT_1_Analysis_Estimation.m");
-run("SCRIPT_2_Synthesis_Evaluation.m");
-
-
 > 🧠 This was implemented as part of MSc coursework on Speech & Audio Processing (University of Surrey, 2025).
 
 ---
@@ -111,5 +106,22 @@ Both values are physiologically consistent with typical human vocal ranges.
    ```bash
    git clone https://github.com/<yourusername>/speech-production-lpc.git
    cd speech-production-lpc
+   ```
+
+2.	Open MATLAB and set this folder as your working directory.
+3.	Run the scripts in order:
+
+   run("SCRIPT_1_Analysis_Estimation.m");
+   run("SCRIPT_2_Synthesis_Evaluation.m");
+
+4.	All figures and synthesised audio will be saved in /figures and /audio_output.
+
+📚 References
+	•	L. R. Rabiner & R. W. Schafer, Theory and Applications of Digital Speech Processing, Pearson, 2011.
+	•	J. D. Markel & A. H. Gray, Linear Prediction of Speech, Springer, 1976.
+	•	T. F. Quatieri, Discrete-Time Speech Signal Processing, Prentice Hall, 2002.
+	•	MathWorks Documentation, LPC Function￼.
+
+   
 
 
